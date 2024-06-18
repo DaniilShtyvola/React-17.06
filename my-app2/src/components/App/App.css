@@ -1,0 +1,12 @@
+.App .richCards {
+    display: flex;
+    width: 1070px;
+    flex-wrap: wrap;
+}
+
+.App .cards {
+    display: flex;
+    width: 870px;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+}
